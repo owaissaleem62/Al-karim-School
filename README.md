@@ -23,5 +23,6 @@ Al-Karim School is an educational institute which has been serving the local com
 
 ## Screenshots
 
-![Your School Name Website Screenshot](/screenshots/your-school-website.png)
+![alkarim](https://github.com/owaissaleem62/Al-karim-School/assets/128397958/5a81c8eb-e0cc-462b-a0c3-60b4cfdf9bbe)
+
 
